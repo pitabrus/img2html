@@ -67,8 +67,8 @@ public class Img2Html
 
                 case "--help":
                     output( "--tag (pixel tag, default: <p>),\n" +
-                                        "--size (pixel size, default: 1),\n" +
-                                        "...");
+                            "--size (pixel size, default: 1),\n" +
+                            "...");
             }
         }
 
